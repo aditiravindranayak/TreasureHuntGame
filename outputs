@@ -1,14 +1,1 @@
-# Outputs
-Displaying the menu of treasure hunt
 
-On selecting first option, all the clues appear one by one, if correct answer given the next clue displays or else the game stops and your total score is displayed.
-
-Treasure hunt rules
-
-Treasure Hunt Leaderboard- Displays scores of all the players previously played
-
-Game exits
-
-login.dat page - It saves all the login username and password
-
-leaderboard.dat page - It saves all the scores with their username
