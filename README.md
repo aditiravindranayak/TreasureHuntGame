@@ -23,17 +23,21 @@ The Treasure Hunt project is an interactive text-based game that takes participa
 ## Screenshots
 
 <img width="570" alt="TH" src="https://github.com/aditiravindranayak/TreasureHuntGame/assets/109815646/86d67f5d-a983-4478-ada5-8ecdc4833263">
+
 Displaying the menu of treasure hunt
 
 <img width="463" alt="clues" src="https://github.com/aditiravindranayak/TreasureHuntGame/assets/109815646/ccb58e0d-220f-4c01-b392-567128577d03">
+
 On selecting first option, all the clues appear one by one, if correct answer given the next clue displays or else the game stops and your total score is displayed.
 
 <img width="483" alt="rules" src="https://github.com/aditiravindranayak/TreasureHuntGame/assets/109815646/16166069-4789-49fa-85e0-9a4e69dba9dd">
+
 Treasure hunt rules
 
 
 <img width="415" alt="leaderboard" src="https://github.com/aditiravindranayak/TreasureHuntGame/assets/109815646/915841a9-a50c-48f1-b488-74a2120fee87">
- Treasure Hunt Leaderboard- Displays scores of all the players previously played
+ 
+Treasure Hunt Leaderboard- Displays scores of all the players previously played
 
 ## Installation
 
