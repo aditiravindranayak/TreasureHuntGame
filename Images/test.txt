@@ -1,1 +1,3 @@
+login.dat page - It saves all the login username and password
 
+leaderboard.dat page - It saves all the scores with their username
